@@ -2,31 +2,31 @@
   container: {
     flex: 1;
     padding: 20;
-    background-color: '#fff';
-  },
+    backgroundColor: '#fff';
+  }
   title: {
     fontSize: 18;
     fontWeight: 'bold';
     marginBottom: 5;
-  },
+  }
   subtitle: {
-    font-size: 16;
-    font-weight: 'bold';
-    margin-top: 10;
-    margin-bottom: 5;
+    fontSize: 16;
+    fontWeight: 'bold';
+    marginTop: 10;
+    marginBottom: 5;
     color: 'red';
-  },
+  }
   input: {
     height: 40;
-    border-color: 'gray';
-    border-width: 1;
-    margin-bottom: 10;
-    padding-horizontal: 10;
-  },
+    borderColor: 'gray';
+    borderWidth: 1;
+    marginBottom: 10;
+    paddingHorizontal: 10;
+  }
   donorText: {
-    font-size: 16;
-    margin-bottom: 5;
+    fontSize: 16;
+    marginBottom: 5;
     color: 'white';
-    background-color: 'red';
+    backgroundColor: 'red';
     padding: 5;
   }
